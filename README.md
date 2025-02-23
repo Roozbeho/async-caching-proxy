@@ -21,7 +21,7 @@ A high-performance, asynchronous caching proxy server built with Python, `asynci
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/caching-proxy.git
+   git clone https://github.com/Roozbeho/caching-proxy.git
    cd caching-proxy
    ```
 
